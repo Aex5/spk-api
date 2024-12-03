@@ -1,0 +1,218 @@
+﻿[
+    {
+        "id": "1",
+        "destination_name": "Air Terjun Montel",
+        "description": "Air Terjun Montel berlokasi tak jauh dari makam Sunan Muria",
+        "rating": "dan berada di kawasan Gunung Muria. Menjadi salah satu air terjun di Kudus yang wajib untuk dikunjungi",
+        "longlat": "4",
+        "image": "2",
+        "category": "-6.6607359"
+    },
+    {
+        "id": "2",
+        "destination_name": "Air Terjun Gonggomino",
+        "description": "Air terjun/curug merupakan salah satu objek wisata alam yang menjadi pilihan wisatawan untuk melepas penat dari segala aktivitas ataupun sekedar berwisata. Suara air terjun yang dianggap menentramkan dan menyejukkan pikiran menjadi salah satunya.",
+        "rating": "4",
+        "longlat": "3",
+        "image": "-6.6504237",
+        "category": "110.9029331"
+    },
+    {
+        "id": "3",
+        "destination_name": "Watereboom Mulia Kudus",
+        "description": "Waterpark Mulia Wisata menyuguhkan taman rekreasi bermain air yang seru",
+        "rating": "asyik dan pastinya menarik. Dengan banyak pilihan kolam dan wahana di dalamnya yang bikin momen liburan kali ini semakin berkesan dan sulit terlupakan.",
+        "longlat": "4",
+        "image": "1",
+        "category": "-6.7111905"
+    },
+    {
+        "id": "4",
+        "destination_name": "Museum Kretek",
+        "description": "Museum Kretek adalah salah satu museum yang terletak di Kudus",
+        "rating": "Jawa Tengah (Jateng). Museum Kretek merupakan museum khusus yang memperkenalkan sejarah tentang kretek. Dibangun dan diresmikan pada tanggal 3 Oktober 1986 silam.",
+        "longlat": "4",
+        "image": "3",
+        "category": "-6.825822504027947"
+    },
+    {
+        "id": "5",
+        "destination_name": "Menara Kudus",
+        "description": " Menara Kudus merupakan salah satu masjid tua di Pulau Jawa yang memiliki bangunan dan saksi akulturasi antara kebudayaan Jawa",
+        "rating": "Hindu",
+        "longlat": "dan Islam. Masjid ini berlokasi di Jalan Menara",
+        "image": "Desa Kauman",
+        "category": "Kecamatan Kota"
+    },
+    {
+        "id": "6",
+        "destination_name": "Desa Wisata Rahtawu",
+        "description": "Dengan ketinggian ± 1.627 m dari permukaan air laut",
+        "rating": "di desa tersebut kamu dapat menikmati panorama alam pegunungan yang asri dan indah memesona dengan udara yang bersih",
+        "longlat": "segar dan sejuk. Tidak hanya itu",
+        "image": "saja kamu juga bisa dengan leluasa menikmati potensi wisata alam dari atas pegunungan Muria. Mulai dari wisata alam hingga mampir makan-makanan khas Rahtawu aneka kuliner Enthog.",
+        "category": "4"
+    },
+    {
+        "id": "7",
+        "destination_name": "Air Tiga Rasa Rajenu",
+        "description": "Air Tiga Rasa Rejenu terdapat di Desa Japan",
+        "rating": "Kecamatan Dawe",
+        "longlat": "Kabupaten Kudus",
+        "image": "tepatnya di atas Air Terjun Monthel. Lokasinya terletak di sebelah utara makam Sunan Muria",
+        "category": "di atas objek air terjun Montel. Di sini terdapat sebuah makam yang banyak diziarahi orang. Orang mengenalnya sebagai makam Syeh Sadzali. Salah satu murid Sunan Muria yang disegani"
+    },
+    {
+        "id": "8",
+        "destination_name": "Gray Canyon Kudus",
+        "description": "Awalnya Gray Canyon merupakan lokasi galian C yaitu usaha penambangan. Seperti halnya yang berupa pertambangan tanah",
+        "rating": "pasir",
+        "longlat": "kerikil",
+        "image": "marmer",
+        "category": "kaolin"
+    },
+    {
+        "id": "9",
+        "destination_name": "Perkemahan Kajar",
+        "description": "Bumi Perkemahan Kajar Terletak di Desa Kajar",
+        "rating": "Kecamatan Dawe Kabupaten Kudus sekitar 2 km arah selatan Makam Sunan Muria. kawasan wisata dan bumi perkemahan Kajar mempunyai ketinggian sekitar 600 meter dpl (di atas permukaan laut).",
+        "longlat": "4",
+        "image": "4",
+        "category": "-6.678103651178264"
+    },
+    {
+        "id": "10",
+        "destination_name": "Taman Oasis",
+        "description": "Salah satu kawasan wisata publik dan perkantoran terpadu di Kabupaten Kudus. Memiliki lahan seluas kurang lebih 85 hektare. Berlokasi di Jalan Lingkar Utara",
+        "rating": "Desa Bacin",
+        "longlat": "Kecamatan Bae. Mulai dibangun pada 2005 dan selesai pada 2012. Dimiliki dan dikelola oleh PT Djarum Kudus.",
+        "image": "4",
+        "category": "5"
+    },
+    {
+        "id": "11",
+        "destination_name": "Situs Pati Ayam",
+        "description": "Museum Situs Patiayam merupakan museum khusus yang menampung temuan dari daerah situs Patiayam. Museum ini menginformasikan mengenai kehidupan manusia beserta lingkungannya pada masa Plestosen. Museum ini mulai didirikan pada tahun 2004. Museum Situs Patiayam memiliki koleksi berjumlah 99 yang ditampilkan pada display. ",
+        "rating": "4",
+        "longlat": "3",
+        "image": "-6.793398327286098",
+        "category": "110.93832533891398"
+    },
+    {
+        "id": "12",
+        "destination_name": "Menara Pisang",
+        "description": "Wisata Menara Pisang di Dawe Kudus Jawa Tengah adalah salah satu tempat wisata yang berada di dukuh Watu Lumpang",
+        "rating": "Desa Kajar",
+        "longlat": "Kecamatan Dawe",
+        "image": "Kabupaten Kudus",
+        "category": "Jawa Tengah"
+    },
+    {
+        "id": "13",
+        "destination_name": "Air Terjun Pengantin",
+        "description": "Air Terjun Pengantin sudah terkenal sejak judul film layar lebar yang dibintangi artis cantik Tamara Bleszynski pada tahun 2009 lalu meskipun lokasi syutingnya bukan di Air Terjun Kudus",
+        "rating": "3",
+        "longlat": "9",
+        "image": "-6.697233492068962",
+        "category": "110.87725653695023"
+    },
+    {
+        "id": "14",
+        "destination_name": "Air Terjun Banteng Rahtawu",
+        "description": "Sejak tahun 2018 Air Terjun Banteng dikelola dengan baik antara pemerintah desa setempat dengan beberapa pihak terkait. Sehingga kini dapat menjadi referensi tempat wisata ketika berada di Kudus",
+        "rating": "khususnya di Desa Rahtawu.",
+        "longlat": "4",
+        "image": "2",
+        "category": "-6.6440550823101825"
+    },
+    {
+        "id": "15",
+        "destination_name": "Gua Jepang Colo",
+        "description": "Gua Jepang terletak di lereng Gunung Muria",
+        "rating": "tempatnya tidak jauh dari objek wisata di dekat Desa Colo yaitu air tiga rasa",
+        "longlat": "dan hanya bisa dilalui dengan berjalan kaki.",
+        "image": "4",
+        "category": "4"
+    },
+    {
+        "id": "16",
+        "destination_name": "The Peak Waterboom",
+        "description": "Kudus Kota Kretek tidak hanya menyajikan wisata sejarah yang menawan hati. Namun",
+        "rating": "siapa sangka",
+        "longlat": "kota ini pun menyediakan destinasi rekreasi air yang memikat. Salah satunya di The Peak View Waterboom & Resto. Destinasi yang tak hanya menyuguhi wisata alam Kudus",
+        "image": "tapi juga arena bermain air.",
+        "category": "4"
+    },
+    {
+        "id": "17",
+        "destination_name": "Puncak 29",
+        "description": "Puncak 29 atau Songolikur merupakan satu puncak dari Gunung Muria berada pada ketinggian lebih dari 1.600 mdpl. Berbicara akan keindahan alamnya tentu sudah tidak kita ragukan lagi karena view yang ijo menghiasi kabut tipis menjadi pemandangan utamanya.",
+        "rating": "4",
+        "longlat": "6",
+        "image": "-6.616293322148556",
+        "category": "110.88934099588981"
+    },
+    {
+        "id": "18",
+        "destination_name": "Air Terjun Ternadi",
+        "description": "Air Terjun Ternadi memiliki ketinggian sekitar 30 m dengan kolam penampungan di bawahnya.  Air terjun ini berdekatan dengan (di atas) Makam Sunan Kaliyetno dan objek wisata Watu Payung",
+        "rating": "4",
+        "longlat": "2",
+        "image": "-6.672709584324997",
+        "category": "110.88307030928576"
+    },
+    {
+        "id": "19",
+        "destination_name": "Air Terjun Kedung Gender",
+        "description": "Di Desa Dukuhwaringin Kecamatan Dawe",
+        "rating": "Kudus ternyata menyimpan pesona wisata alam yang mempesona. Namanya adalah air terjun Kedung Gender.",
+        "longlat": "4",
+        "image": "5",
+        "category": "-6.6736657149297685"
+    },
+    {
+        "id": "20",
+        "destination_name": "Gunung Muria Kudus",
+        "description": "Di Desa Dukuhwaringin Kecamatan Dawe",
+        "rating": "Kudus ternyata menyimpan pesona wisata alam yang mempesona. Namanya adalah air terjun Kedung Gender.",
+        "longlat": "4",
+        "image": "2",
+        "category": "-6.615557657257895"
+    },
+    {
+        "id": "21",
+        "destination_name": "Sendang Jodo",
+        "description": "Di Dukuh Jambean",
+        "rating": "Desa Purworejo",
+        "longlat": "Kecamatan Bae",
+        "image": "Kabupaten Kudus terdapat sumber mata air bernama Sendang Jodo. Konon",
+        "category": "air sendang berukuran empat meter persegi tersebut dipercaya masyarakat sekitar mempunyai banyak khasiat"
+    },
+    {
+        "id": "22",
+        "destination_name": "Desa Wisata Wonosoco",
+        "description": "Desa Wisata Wonosoco memiliki destinasi wisata alam yang  terdiri dari wisata goa",
+        "rating": "sendang",
+        "longlat": "dan wisata budaya",
+        "image": "yakni petilasan. Kegiatan budaya disuguhkan oleh masyarakat Wonosoco secara rutin tiap tahun adalah KIRAB RESIK-RESIK SENDANG",
+        "category": "4"
+    },
+    {
+        "id": "23",
+        "destination_name": "Desa Wisata Jurang Gebog",
+        "description": "Jurang merupakan sebuah desa yang berada di Kecamatan Gebog",
+        "rating": "Kabupaten Kudus",
+        "longlat": "Jawa Tengah. Desa Jurang sendiri berada pada kawasan lereng gunung muria dan secara geografis sendiri dilintasi oleh sungai gelis",
+        "image": "sungai yang membelah Kota Kudus",
+        "category": "4"
+    },
+    {
+        "id": "24",
+        "destination_name": "Gerbang Kudus Kota Kretek",
+        "description": "adalah sebuah monumen berupa gerbang masuk kota yang berada di kawasan Taman Tanggul Angin",
+        "rating": "Kecamatan Jati",
+        "longlat": "Kabupaten Kudus. Monumen ini melambangkan kota asal dari rokok kretek yaitu Kudus. Gerbang Kudus Kota Kretek ini diklaim termegah di Indonesia",
+        "image": "4",
+        "category": "7"
+    }
+]
