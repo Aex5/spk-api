@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^21.3.9",
+    "dotenv": "^16.4.7",
     "jsonwebtoken": "^9.0.2",
     "ml-matrix": "^6.11.0",
     "ml-regression-multivariate-linear": "^2.0.4",
