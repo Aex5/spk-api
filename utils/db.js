@@ -17,3 +17,4 @@ connection.connect((err) => {
     console.log('Connected to SQL');
 });
 
+module.exports = connection;
